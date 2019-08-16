@@ -12,7 +12,7 @@ ALC 256 Audio
 
 # Catalina
 
-# Working
+ Working
 -Wifi (Broadcom Wifi Card)
 -Sound
 -Graphics
@@ -24,13 +24,14 @@ ALC 256 Audio
 -Bluetooth
 -HDMI
 -Audio Jack (Partial)
-# Not Working
+
+Not Working
 -SD Card Reader
 -HDMI Audio
 
 # Mojave
 
-# Working
+ Working
 -Wifi & Bluetooth (Broadcom Wifi Card)
 -Sound
 -Graphics
@@ -39,13 +40,13 @@ ALC 256 Audio
 -Screen
 -Power Management
 
-# Not Working
+ Not Working
 -SD Card Reader
 
 
 # High Sierra
 
-# Working
+ Working
 -HDMI
 -Wifi & Bluetooth (Broadcom Wifi Card)
 -Sound
@@ -55,5 +56,5 @@ ALC 256 Audio
 -Screen
 -Power Management
 
-# Not Working
+ Not Working
 -SD Card Reader
