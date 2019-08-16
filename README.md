@@ -10,7 +10,7 @@ RTL8111 Gigabit Ethernet
 BCM94352Z WiFi
 ALC 256 Audio
 
-! [meme] https://github.com/sachangregory/Dell-Inspiron-5577-EFI/blob/master/vnexk62fbk431.png
+![ok](https://github.com/sachangregory/Dell-Inspiron-5577-EFI/blob/master/vnexk62fbk431.png)
 
 # Catalina
 
