@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>130</LogNumber>
+    <LogTimeStamp>10/20/2019 12:40:36</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Abort</Result>
+      <ReturnCode>BOOT_F2</ReturnCode>
+      <DevicesTested>Memory, Hard Drive</DevicesTested>
+      <ePSAFullVersion>4304.16</ePSAFullVersion>
+      <ePSAInvocationCount>5</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>OS_BOOT_FAILURE</ErrorCategory>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+      <OSBootFailCount>2</OSBootFailCount>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
