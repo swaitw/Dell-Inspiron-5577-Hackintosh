@@ -48,21 +48,3 @@ Not Working:
  Not Working:
  
 - SD Card Reader
-
-
-## High Sierra
-
- Working:
- 
-- HDMI
-- Wifi & Bluetooth (Broadcom Wifi Card)
-- Sound
-- Graphics
-- Keyboard
-- Trackpad Gestures
-- Screen
-- Power Management
-
- Not Working:
- 
-- SD Card Reader
