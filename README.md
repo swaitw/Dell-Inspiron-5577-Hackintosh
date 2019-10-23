@@ -1,5 +1,7 @@
 # Dell Inspiron 5577 Hackintosh
 
+PLEASE READ WIKI BEFORE MAKING ISSUES
+
 Specifications:
 - Intel i5-7300HQ
 - Intel HD 630 & nVIDIA GTX 1050 (Optimus and Disabled)
