@@ -28,7 +28,10 @@ Specifications:
 - Sleep
 - Bluetooth
 - HDMI
-- Audio Jack (Partial)
+- Audio Jack (Fully Working)
+- Wireless Sidecar
+- Handoff
+- iMessage
 
 Not Working:
 
